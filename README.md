@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on projects that use Django Rest Framework and Django.
 - 📫 How to reach me? [Willames on LinkedIn!](https://www.linkedin.com/in/willames-de-jesus-campos-977744116/)
 
-# Quem eu sou?
+# Quem sou eu?
 - 👋 Olá, eu sou o @WillamesCampos
 - 👀 Eu me interesso em desenvolvimento web com python, análise e ciência de dados e API's Rest.
 - 🌱 Estou trabalhando com Django Rest Framework (DRF) em um estágio e desenvolvendo um projeto próprio com DRF.
