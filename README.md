@@ -10,7 +10,7 @@
 # Quem sou eu?
 - 👋 Olá, eu sou o @WillamesCampos
 - 👀 Eu me interesso em desenvolvimento web com python e API's Rest.
-- 🌱 Estou trabalhando com Django Rest Framework (DRF) como estágio e desenvolvendo um projeto próprio com DRF.
+- 🌱 Estou trabalhando com Django Rest Framework (DRF) como estagiário e desenvolvendo um projeto próprio com DRF.
 - :notebook: Eu pretendo aprender e trabalhar com JavaScript também em breve.
 - 💞️ Eu estou interessado em colaborar em projetos que usem Django e Django Rest Framework.
 - 📫 Como você pode me encontrar? [Willames no LinkedIn!](https://www.linkedin.com/in/willames-de-jesus-campos-977744116/)
