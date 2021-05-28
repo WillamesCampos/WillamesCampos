@@ -1,7 +1,7 @@
 
 # Who am I?
 - 👋 Hi, I’m @WillamesCampos
-- 👀 I’m interested in Python web development, Data Science and Rest API.
+- 👀 I’m interested in Python web development and Rest API.
 - 🌱 I’m currently learning Django Rest Framework (DRF) in an internship and making a personal project with DRF.
 - :notebook: I intend for learn JavaScript come soon.
 - 💞️ I’m looking to collaborate on projects that use Django Rest Framework and Django.
@@ -9,7 +9,7 @@
 
 # Quem sou eu?
 - 👋 Olá, eu sou o @WillamesCampos
-- 👀 Eu me interesso em desenvolvimento web com python, análise e ciência de dados e API's Rest.
+- 👀 Eu me interesso em desenvolvimento web com python e API's Rest.
 - 🌱 Estou trabalhando com Django Rest Framework (DRF) em um estágio e desenvolvendo um projeto próprio com DRF.
 - :notebook: Eu pretendo aprender e trabalhar com JavaScript também em breve.
 - 💞️ Eu estou interessado em colaborar em projetos que usem Django e Django Rest Framework.
