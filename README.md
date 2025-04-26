@@ -1,24 +1,59 @@
+# 👋 Olá, eu sou Willames de Jesus Campos
 
-# Who am I?
-- 👋 Hi, I’m @WillamesCampos
-- 👀 I’m interested in Python web development and Rest API.
-- 🌱 I’m currently working and improving my knowledge in Django Rest Framework (DRF)  and making a personal project with DRF.
-- 📓: I'm improving my skills learning data science.
-- 🧰: Encourager and user of Docker and Celery in applications developed by me.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/willamescampos/)
+[![Gmail](https://img.shields.io/badge/gmail-red?logo=gmail&style=flat-square)](mailto:willwjccampos@gmail.com)
 
-- 💞️ I’m looking to collaborate on projects that use Django Rest Framework and Django.
-- 📫 How to reach me? [Willames on LinkedIn!](https://www.linkedin.com/in/willames-de-jesus-campos-977744116/)
+---
 
-# Quem sou eu?
-- 👋 Olá, eu sou o @WillamesCampos
-- 👀 Eu me interesso em desenvolvimento web com python e API's Rest.
-- 🌱 Estou trabalhando com Django e Django Rest Framework (DRF) e também desenvolvendo um projeto próprio com DRF.
-- 📓: Eu estou aumentanto minhas habilidades aprendendo ciência de dados.
-- 🧰: Incentivador e usuário de Docker e Celery nas aplicações desenvolvidas por mim.
-- 💞️ Eu estou interessado em colaborar em projetos que usem Django e Django Rest Framework.
-- 📫 Como você pode me encontrar? [Willames no LinkedIn!](https://www.linkedin.com/in/willames-de-jesus-campos-977744116/)
+## 🧑‍💻 Sobre mim
 
-<!---
-WillamesCampos/WillamesCampos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Sou **Engenheiro de Computação** com mais de **5 anos de experiência em desenvolvimento back-end** e 2 anos de experiência em front-end. Atuo principalmente com **Python**, **Django**, **Django Rest Framework** e **Vue.js**, desenvolvendo APIs robustas, modelando bancos de dados relacionais (PostgreSQL) e implementando integrações entre sistemas.
+
+Meu foco é criar soluções escaláveis, com código de qualidade, testes automatizados e deploy em ambientes cloud com **Docker** e **AWS**. Tenho experiência em rotinas assíncronas com **Celery** e no desenvolvimento de bibliotecas para facilitar integrações internas. Também atuo com automação de processos, análise de dados (Metabase, Jupyter Notebook) e na criação de soluções inovadoras para problemas do dia a dia das empresas.
+
+---
+
+## ⚡ Principais Skills
+
+- **Back-end:** Python, Django, Django Rest Framework, Flask  
+- **Front-end:** Vue.js  
+- **Banco de dados:** PostgreSQL, MongoDB 
+- **Testes:** Unitários e Integração (Pytest, Django Test)  
+- **DevOps:** Docker, AWS, Google Cloud  
+- **Mensageria e assíncrono:** Celery, Redis, Message Brokers (Zenvia, Twilio)  
+- **APIs:** Integração com APIs externas e desenvolvimento de novas  
+- **Automação e Data Science:** Jupyter Notebook, scripts de manipulação de dados (CSV, Excel)  
+- **Outros:** Metabase, Git
+
+---
+
+## 🚀 Principais Projetos
+
+- **Modelagem de banco de dados e APIs robustas** utilizando Django Rest Framework
+- **Biblioteca de autenticação** para aplicações internas em Django
+- **Soluções em Docker na Google Cloud** para integrações entre apps de clientes e produtos internos
+- **Automação de processamentos de dados** com Google Planilhas e integração com Slack para notificações
+- **Scripts para manipulação de bases de dados** via Jupyter Notebook
+- **Biblioteca Python** com SQLAlchemy e Flask, facilitando registros em banco de dados
+
+---
+
+## 📂 Experiência Profissional
+
+- **Desenvolvedor Full Stack | Movva (mai/2022 - atualmente)**
+    - Desenvolvimento e implantação de testes unitários
+    - Modelagem e criação de APIs, integrações com brokers (Zenvia, Twilio), automatização de processos em cloud
+    - Atuação full stack: Django e Vue.js
+
+- **Desenvolvedor Backend | Arbache Innovations (abr/2021 - abr/2023)**
+    - Projetos com Django/Django Rest Framework
+    - Integração entre APIs internas e desenvolvimento de mecanismos de autenticação
+    - Testes de carga e unitários
+
+---
+
+## 🎓 Formação
+
+- **Bacharel em Engenharia de Computação**
+    - Universidade Federal de Sergipe (2019 – 2024)
+    - TCC: Estudo
