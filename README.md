@@ -27,17 +27,6 @@ Meu foco é criar soluções escaláveis, com código de qualidade, testes autom
 
 ---
 
-## 🚀 Principais Projetos
-
-- **Modelagem de banco de dados e APIs robustas** utilizando Django Rest Framework
-- **Biblioteca de autenticação** para aplicações internas em Django
-- **Soluções em Docker na Google Cloud** para integrações entre apps de clientes e produtos internos
-- **Automação de processamentos de dados** com Google Planilhas e integração com Slack para notificações
-- **Scripts para manipulação de bases de dados** via Jupyter Notebook
-- **Biblioteca Python** com SQLAlchemy e Flask, facilitando registros em banco de dados
-
----
-
 ## 📂 Experiência Profissional
 
 - **Desenvolvedor Full Stack | Movva (mai/2022 - atualmente)**
