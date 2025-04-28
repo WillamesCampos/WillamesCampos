@@ -7,9 +7,15 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou **Engenheiro de Computação** com mais de **5 anos de experiência em desenvolvimento back-end**. Atuo principalmente com **Python**, **Django**, **Django Rest Framework** e **Vue.js**, desenvolvendo APIs robustas, modelando bancos de dados relacionais (PostgreSQL) e implementando integrações entre sistemas.
+Sou **Engenheiro de Computação** com mais de **5 anos** de experiência especializado em desenvolvimento web back-end. Trabalho principalmente com **Python**, **Django** e **Django Rest Framework**, desenvolvendo APIs escaláveis, modelando bancos de dados relacionais (PostgreSQL) e implementando integrações entre sistemas.
 
-Meu foco é criar soluções escaláveis, com código de qualidade, testes automatizados e deploy em ambientes cloud com **Docker** e **AWS**. Tenho experiência em rotinas assíncronas com **Celery** e no desenvolvimento de bibliotecas para facilitar integrações internas. Também atuo com automação de processos, análise de dados (Metabase, Jupyter Notebook) e na criação de soluções inovadoras para problemas do dia a dia das empresas.
+Tenho forte atuação na construção de soluções robustas com alta cobertura de **testes automatizados**, prezando por qualidade de código e boas práticas de engenharia. Também possuo experiência com rotinas assíncronas (Celery), criação de bibliotecas internas, integrações com API's terceiras, automação de processos e análise de dados utilizando ferramentas como Metabase e Jupyter Notebook.
+
+No ambiente de deploy, atuo com Docker e AWS para entrega de aplicações em nuvem, sempre focando em escalabilidade, performance e confiabilidade dos sistemas.
+
+Meu objetivo é criar sistemas back-end sólidos, eficientes e alinhados com as necessidades do negócio, buscando inovação e melhoria contínua.
+
+
 
 ## Principais Skills
 
@@ -39,4 +45,12 @@ Meu foco é criar soluções escaláveis, com código de qualidade, testes autom
 ### Ferramentas e Bibliotecas
 <img title="Postman" alt="Postman" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain-wordmark.svg"/>|<img title="Jupyter Notebook" alt="Jupyter Notebook" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg">|<img title="VS Code" alt="Vs Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg">|<img title="Pandas" alt="Pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg">|<img title="Git" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg">|<img title="Linux" alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">|<img title="Poetry" alt="Poetry" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/poetry/poetry-original.svg">|<img title="Celery" alt="Celery" width="40px" src="https://miro.medium.com/v2/resize:fit:600/format:webp/1*KGc-JPw3KVwqQ77fCMCT6Q.png">|<img title="Vue.js" alt="Vue.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg">
 |--|--|--|--|--|--|--|--|--|
+
+### Estudando no momento...
+ - Arquitetura de Software
+ - Assincronismo em código Python
+ - SQL
+ - Padrões de Projeto
+
+
 
