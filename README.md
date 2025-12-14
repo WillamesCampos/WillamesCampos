@@ -136,8 +136,8 @@ Long-term:
 ---
 
 ### Infra & Workflow
-<img title="Celery" alt="Celery" width="50px" src="https://miro.medium.com/v2/resize:fit:600/format:webp/1*KGc-JPw3KVwqQ77fCMCT6Q.png">|<img title="Vue.js" alt="Vue.js" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg">|<img title="Poetry" width="50px" src="https://github.com/user-attachments/assets/d5e0c84f-577a-420d-972d-1fdcb9470833" />      
-|--|--|--|
+<img title="Celery" alt="Celery" width="70px" src="https://miro.medium.com/v2/resize:fit:600/format:webp/1*KGc-JPw3KVwqQ77fCMCT6Q.png">|<img title="Poetry" width="70px" src="https://github.com/user-attachments/assets/d5e0c84f-577a-420d-972d-1fdcb9470833" />      
+|--|--|
 ---
 
 ### Data Obserbability
