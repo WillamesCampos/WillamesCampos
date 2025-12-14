@@ -29,26 +29,26 @@ Recently, I’ve been deepening my knowledge in **System Design, Microservices, 
 - RESTful API design
 - Authentication, permissions, and data validation
 
-### Async & Messaging
+### 📨 Async & Messaging
 - Celery for background processing
 - Redis as broker/cache
 - RabbitMQ (basic to intermediate usage)
 - Async concepts in Python (practical understanding)
 
-### Databases & Data
+### 🗄️ Databases & Data
 - PostgreSQL and MySQL
 - ORM modeling and query optimization
 - SQL tuning and schema design
 - Experience supporting reporting and analytical use cases
 
-### Cloud & DevOps
+### ☁️ Cloud & DevOps
 - Docker & Docker Compose
 - CI/CD pipelines (GitHub Actions)
 - AWS: ECS, RDS, S3
 - GCP: Cloud Storage, App Engine, Container Registry / Artifact Registry
 - Environment configuration and secrets management
 
-### Testing & Quality
+### 🧪 Testing & Quality
 - Pytest and unittest
 - Unit and integration testing
 - Code organization and PEP8 best practices
@@ -98,13 +98,11 @@ Long-term:
 - Technical leadership through influence and best practices
 - Implementation systems using Go programming language
 
-## Skills
+## ⚙️ Skills
 
-### ⚡ Programming Languages
+### 💻 Programming Languages
 
-<img title="Python" title="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img width="50px" title="Javascript" src="https://github.com/user-attachments/assets/ea6f0c5a-d939-4658-a49d-46eb5c47ff2a" />|<img width="50px" title="Typescript" src="https://github.com/user-attachments/assets/2c898dd5-3d0d-41af-9856-53c306c8bc30" />
-|--|--|--|
----
+<img title="Python" title="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
 
 ### 🧩 BackEnd Frameworks
           
@@ -112,17 +110,17 @@ Long-term:
 |--|--|--|--|
 
 ---
-### Databases
+### 🗄️ Databases
 <img title="Postgree" alt="Postgree" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"/>|<img title="Redis" alt="Redis" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg">|<img title="MongoDB" alt="MongoDB" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg">
 |--|--|--|
 ---
 
-### Dev OPS
+### ☁️ Dev OPS
 <img title="Docker" alt="Docker" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"/>|<img title="AWS" alt="AWS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">|<img title="Google Cloud" alt="Google Cloud" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg">
 |--|--|--|
 ---
 
-### Development Tools, Libraries and Other Technologies
+### 🛠️ Development Tools, Libraries and Other Technologies
 <img title="Postman" alt="Postman" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain-wordmark.svg"/>|<img title="Linux" alt="Linux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">|<img title="Dbeaver" width="50px" src="https://github.com/user-attachments/assets/f069c7b1-e5eb-4b8d-b8f7-2a79c1da7750" />
 |--|--|--|
 ---
