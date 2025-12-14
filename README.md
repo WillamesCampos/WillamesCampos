@@ -22,7 +22,7 @@ Recently, I’ve been deepening my knowledge in **System Design, Microservices, 
 
 ## 🧠 Core Technical Skills
 
-### Backend & APIs
+### 🧩 Backend & APIs
 - Python (advanced)
 - Django & Django REST Framework
 - FastAPI and Flask (microservices, lightweight APIs)
@@ -102,29 +102,43 @@ Long-term:
 
 ### ⚡ Programming Languages
 
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|
-|--|
-
+<img title="Python" title="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img width="50px" title="Javascript" src="https://github.com/user-attachments/assets/ea6f0c5a-d939-4658-a49d-46eb5c47ff2a" />|<img width="50px" title="Typescript" src="https://github.com/user-attachments/assets/2c898dd5-3d0d-41af-9856-53c306c8bc30" />
+|--|--|--|
 ---
 
-### BackEnd Frameworks
+### 🧩 BackEnd Frameworks
           
-<img title="Django" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"/>|<img title="Django Rest Framework" alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original-wordmark.svg">|<img title="Flask" alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg">|<img title="Fast API" alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg">
+<img title="Django" alt="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"/>|<img title="Django Rest Framework" alt="C" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original-wordmark.svg">|<img title="Flask" alt="C" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg">|<img title="Fast API" alt="C" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg">
 |--|--|--|--|
 
 ---
 ### Databases
-<img title="Postgree" alt="Postgree" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"/>|<img title="Redis" alt="Redis" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg">|<img title="MongoDB" alt="MongoDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg">
+<img title="Postgree" alt="Postgree" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"/>|<img title="Redis" alt="Redis" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg">|<img title="MongoDB" alt="MongoDB" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg">
 |--|--|--|
 ---
 
 ### Dev OPS
-<img title="Docker" alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"/>|<img title="AWS" alt="AWS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">|<img title="Google Cloud" alt="Google Cloud" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg">
+<img title="Docker" alt="Docker" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"/>|<img title="AWS" alt="AWS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">|<img title="Google Cloud" alt="Google Cloud" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg">
 |--|--|--|
 ---
 
 ### Development Tools, Libraries and Other Technologies
-<img title="Postman" alt="Postman" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain-wordmark.svg"/>|<img title="Jupyter Notebook" alt="Jupyter Notebook" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg">|<img title="VS Code" alt="Vs Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg">|<img title="Pandas" alt="Pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg">|<img title="Git" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg">|<img title="Linux" alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">|<img title="Poetry" alt="Poetry" width="40px" src="=https://github.com/user-attachments/assets/ffb2c9f0-b1b8-460c-b67c-57608db790b6">|<img title="Celery" alt="Celery" width="40px" src="https://miro.medium.com/v2/resize:fit:600/format:webp/1*KGc-JPw3KVwqQ77fCMCT6Q.png">|<img title="Vue.js" alt="Vue.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg">
-|--|--|--|--|--|--|--|--|--|
+<img title="Postman" alt="Postman" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain-wordmark.svg"/>|<img title="Linux" alt="Linux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">|<img title="Dbeaver" width="50px" src="https://github.com/user-attachments/assets/f069c7b1-e5eb-4b8d-b8f7-2a79c1da7750" />
+|--|--|--|
+---
+
+<img title="VS Code" alt="Vs Code" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg">|<img title="Cursor IDE" width="50px" src="https://github.com/user-attachments/assets/d613b07c-5d8c-461d-b020-3231e9e73d6b" />|<img title="Jupyter Notebook" alt="Jupyter Notebook" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg">|
+|--|--|--|
+---
+
+<img title="Pandas" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg">|<img width="50px" title="Numpy" src="https://github.com/user-attachments/assets/6e66ed0d-c7c4-403e-9e17-b0e017ed1255" />|<img title="Git" alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg">
+|--|--|--|
+---
+
+
+<img title="Celery" alt="Celery" width="50px" src="https://miro.medium.com/v2/resize:fit:600/format:webp/1*KGc-JPw3KVwqQ77fCMCT6Q.png">|<img title="Vue.js" alt="Vue.js" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg">|<img title="Poetry" width="50px" src="https://github.com/user-attachments/assets/d5e0c84f-577a-420d-972d-1fdcb9470833" />      
+|--|--|--|
+---
+
 
 
