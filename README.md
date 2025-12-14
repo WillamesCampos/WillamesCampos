@@ -96,7 +96,7 @@ Long-term:
 - Backend architecture and system design
 - Deeper integration with **data engineering and AI/LLM-enabled systems**
 - Technical leadership through influence and best practices
-- Implementation systems using Go programming language
+- Building backend systems using Go
 
 ## ⚙️ Skills
 
@@ -120,22 +120,29 @@ Long-term:
 |--|--|--|
 ---
 
-### 🛠️ Development Tools, Libraries and Other Technologies
+### 🛠️ Development
 <img title="Postman" alt="Postman" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain-wordmark.svg"/>|<img title="Linux" alt="Linux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">|<img title="Dbeaver" width="50px" src="https://github.com/user-attachments/assets/f069c7b1-e5eb-4b8d-b8f7-2a79c1da7750" />
 |--|--|--|
 ---
 
+### IDE
 <img title="VS Code" alt="Vs Code" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg">|<img title="Cursor IDE" width="50px" src="https://github.com/user-attachments/assets/d613b07c-5d8c-461d-b020-3231e9e73d6b" />|<img title="Jupyter Notebook" alt="Jupyter Notebook" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg">|
 |--|--|--|
 ---
 
+### Data Analysis
 <img title="Pandas" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg">|<img width="50px" title="Numpy" src="https://github.com/user-attachments/assets/6e66ed0d-c7c4-403e-9e17-b0e017ed1255" />|<img title="Git" alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg">
 |--|--|--|
 ---
 
-
+### Infra & Workflow
 <img title="Celery" alt="Celery" width="50px" src="https://miro.medium.com/v2/resize:fit:600/format:webp/1*KGc-JPw3KVwqQ77fCMCT6Q.png">|<img title="Vue.js" alt="Vue.js" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg">|<img title="Poetry" width="50px" src="https://github.com/user-attachments/assets/d5e0c84f-577a-420d-972d-1fdcb9470833" />      
 |--|--|--|
+---
+
+### Data Obserbability
+|<img width="50px" title="sentry" src="https://github.com/user-attachments/assets/d67eae5c-77b1-43fc-9b0a-be0934dbb7b2" />|<img width="50px" title="datadog" src="https://github.com/user-attachments/assets/3ec8a15b-0842-49b3-acf7-82909c05e13a" />|
+|--|--|
 ---
 
 
