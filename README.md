@@ -121,8 +121,8 @@ Long-term:
 ---
 
 ### 🛠️ Development
-<img title="Postman" alt="Postman" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain-wordmark.svg"/>|<img title="Linux" alt="Linux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">|<img title="Dbeaver" width="50px" src="https://github.com/user-attachments/assets/f069c7b1-e5eb-4b8d-b8f7-2a79c1da7750" />
-|--|--|--|
+<img title="Postman" alt="Postman" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain-wordmark.svg"/>|<img title="Linux" alt="Linux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">|<img title="Dbeaver" width="50px" src="https://github.com/user-attachments/assets/f069c7b1-e5eb-4b8d-b8f7-2a79c1da7750" /> |<img title="Git" alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg">
+|--|--|--|--|
 ---
 
 ### IDE
@@ -131,8 +131,8 @@ Long-term:
 ---
 
 ### Data Analysis
-<img title="Pandas" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg">|<img width="50px" title="Numpy" src="https://github.com/user-attachments/assets/6e66ed0d-c7c4-403e-9e17-b0e017ed1255" />|<img title="Git" alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg">
-|--|--|--|
+<img title="Pandas" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg">|<img width="50px" title="Numpy" src="https://github.com/user-attachments/assets/6e66ed0d-c7c4-403e-9e17-b0e017ed1255" />
+|--|--|
 ---
 
 ### Infra & Workflow
