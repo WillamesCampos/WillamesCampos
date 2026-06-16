@@ -1,149 +1,181 @@
-# 👋 Hi, I am Willames de Jesus Campos!
+# 👋 Hi, I'm Willames de Jesus Campos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/willamescampos/)
 [![Gmail](https://img.shields.io/badge/gmail-red?logo=gmail&style=flat-square)](mailto:willwjccampos@gmail.com)
 
 ---
-Backend Software Engineer specialized in **Python and Django**, with strong experience building **APIs, backend services, and data-driven systems**.  
-I focus on writing **clean, maintainable code**, designing **scalable architectures**, and delivering **reliable solutions** aligned with real business needs.
 
-## 🧑‍💻 About me
+## Senior Backend Engineer | Python • FastAPI • Django • REST APIs • Microservices • Cloud
 
-I am **Computer Engineer** and I have **5+ years of experience** working primarily with **Python backend development**, especially using **Django and Django REST Framework** to build APIs consumed by internal systems and external clients.
+I’m a Senior Backend Engineer with 5+ years of experience building scalable, reliable, and business-critical backend systems using Python, FastAPI, Django, REST APIs, microservices, distributed systems, asynchronous processing, and cloud-native services.
 
-Over the last years, I’ve worked on:
-- Monolithic and service-oriented backends
-- API-first architectures
+My work focuses on backend architecture, API design, performance optimization, system reliability, integrations, asynchronous workflows, and cloud-based services on AWS and GCP.
+
+I also use AI-assisted development workflows with Claude AI, Cursor, OpenSpec, and agent-based practices to support technical planning, specification-driven development, implementation, and delivery quality.
+
+---
+
+## 🚀 Impact Highlights
+
+- Supported backend platforms serving **100–10,000+ users** across enterprise clients.
+- Reduced onboarding workflows from **4 hours to 5 minutes**, improving operational efficiency by **92.5%**.
+- Reduced deployment time by **67%** by improving CI/CD pipelines with GitHub Actions, Docker, and Docker Compose.
+- Reduced recurring production incidents from **30 to 4 per month** by resolving security, logging, and data exposure issues.
+- Improved notification feature development speed by **83%** through reusable architecture, design patterns, and better service organization.
+
+---
+
+## 🧑‍💻 About Me
+
+I have worked across backend systems for marketplaces, financial platforms, corporate education, integrations, reporting APIs, notification systems, and cloud-native services.
+
+My core stack is Python, FastAPI, Django, Django REST Framework, PostgreSQL, Redis, Celery, Docker, AWS, GCP, and CI/CD.
+
+Over the last few years, I’ve worked on:
+
+- Scalable REST APIs and backend services
+- Microservices and service-to-service communication
 - Asynchronous processing and background jobs
-- Cloud-based, containerized applications
+- Event-driven workflows and message-driven systems
+- Cloud-native applications on AWS and GCP
+- API integrations with third-party platforms
+- Performance optimization and database tuning
+- AI-assisted development workflows using Claude AI, Cursor, and OpenSpec
 
-Recently, I’ve been deepening my knowledge in **System Design, Microservices, Event-Driven Architecture**, and **backend scalability**, aiming to operate confidently in high-traffic and distributed environments.
-
+---
 
 ## 🧠 Core Technical Skills
 
-### 🧩 Backend & APIs
-- Python (advanced)
-- Django & Django REST Framework
-- FastAPI and Flask (microservices, lightweight APIs)
-- RESTful API design
-- Authentication, permissions, and data validation
+### Backend & APIs
+- Python
+- FastAPI
+- Django
+- Django REST Framework
+- Flask
+- REST APIs
+- API Design
+- Authentication, permissions, OAuth2, JWT
+- Microservices
 
-### 📨 Async & Messaging
-- Celery for background processing
-- Redis as broker/cache
-- RabbitMQ (basic to intermediate usage)
-- Async concepts in Python (practical understanding)
+### Architecture & Systems
+- Distributed Systems
+- Event-Driven Architecture
+- Message-Driven Systems
+- System Design
+- Service-to-Service Communication
+- Scalability and Reliability
+- Performance Optimization
 
-### 🗄️ Databases & Data
-- PostgreSQL and MySQL
-- ORM modeling and query optimization
-- SQL tuning and schema design
-- Experience supporting reporting and analytical use cases
+### Async & Messaging
+- Celery
+- Redis
+- RabbitMQ
+- Google Pub/Sub
+- Apache Kafka exposure
+- Asynchronous Processing
+- Background Jobs
 
-### ☁️ Cloud & DevOps
-- Docker & Docker Compose
-- CI/CD pipelines (GitHub Actions)
-- AWS: ECS, RDS, S3
-- GCP: Cloud Storage, App Engine, Container Registry / Artifact Registry
-- Environment configuration and secrets management
+### Databases & Data
+- PostgreSQL
+- MongoDB
+- SQL
+- ORM modeling
+- Query optimization
+- Indexing and caching strategies
 
-### 🧪 Testing & Quality
-- Pytest and unittest
+### Cloud & DevOps
+- Docker
+- Docker Compose
+- GitHub Actions
+- CI/CD
+- AWS ECS
+- AWS CloudWatch
+- AWS S3
+- GCP Cloud Run
+- GCP Firestore
+- Google Cloud Storage
+- Artifact Registry
+- ArgoCD exposure
+
+### AI-Assisted Development
+- Claude AI
+- Cursor
+- OpenSpec
+- Agent-Based Workflows
+- Specification-Driven Development
+- Technical planning with AI-assisted workflows
+
+### Testing & Quality
+- Pytest
+- Unittest
 - Unit and integration testing
-- Code organization and PEP8 best practices
+- Code organization
+- Maintainable architecture
+- Production-oriented development
 
 ---
 
-## 🏗️ Architecture & Engineering Focus
+## 🏗️ Engineering Focus
 
 I’m especially interested in:
-- **Scalable backend architectures**
-- **System Design for high-traffic applications**
-- **Microservices and service decomposition**
-- **Event-driven systems**
-- **Observability, reliability, and production ownership**
 
-I actively study and apply concepts such as:
-- API scalability strategies
-- Caching and async processing
-- Trade-offs between monoliths and microservices
-- Fault tolerance and system resilience
+- Scalable backend architectures
+- REST APIs and backend platforms
+- Microservices and distributed systems
+- Event-driven workflows
+- Cloud-native backend services
+- Reliability, observability, and production ownership
+- AI-assisted development applied to backend engineering
+
+I enjoy working on systems where backend engineering directly impacts product quality, operational efficiency, and business outcomes.
 
 ---
 
-## 🤝 How I Can Contribute to a Project
+## 🤝 How I Can Contribute
 
 I add value by:
-- Designing and implementing **robust backend APIs**
-- Improving **code quality, structure, and maintainability**
-- Helping teams evolve from ad-hoc solutions to **well-structured architectures**
-- Working collaboratively with product, frontend, data, and infrastructure teams
-- Taking **ownership of features**, from design to production support
 
-I’m comfortable joining existing codebases, understanding complex domains, and incrementally improving systems without unnecessary rewrites.
+- Designing and implementing robust backend APIs
+- Improving system reliability and performance
+- Building scalable backend services with Python, FastAPI, and Django
+- Refactoring systems toward cleaner and more maintainable architectures
+- Creating asynchronous processing pipelines and integration workflows
+- Supporting production systems with ownership and pragmatic problem-solving
+- Working closely with product, frontend, data, and infrastructure teams
+
+I’m comfortable joining existing codebases, understanding complex domains, and improving systems incrementally without unnecessary rewrites.
 
 ---
 
 ## 📈 Career Direction
 
-Short to mid-term:
-- Backend Python roles focused on **Django, FastAPI and APIs**
-- Systems with **real users, scale, and complexity**
-- Teams that value **engineering maturity and collaboration**
+I’m focused on remote backend engineering opportunities where I can build scalable APIs, microservices, distributed systems, cloud-native services, and event-driven workflows.
 
-Long-term:
-- Backend architecture and system design
-- Deeper integration with **data engineering and AI/LLM-enabled systems**
-- Technical leadership through influence and best practices
-- Building backend systems using Go
-
-## ⚙️ Skills
-
-### 💻 Programming Languages
-
-<img title="Python" title="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
-
-### 🧩 BackEnd Frameworks
-          
-<img title="Django" alt="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"/>|<img title="Django Rest Framework" alt="C" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original-wordmark.svg">|<img title="Flask" alt="C" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg">|<img title="Fast API" alt="C" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg">
-|--|--|--|--|
+My current direction is to keep a strong backend engineering core while expanding my practical use of AI-assisted development, agents, specification-driven workflows, and developer productivity tools.
 
 ---
-### 🗄️ Databases
-<img title="Postgree" alt="Postgree" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"/>|<img title="Redis" alt="Redis" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg">|<img title="MongoDB" alt="MongoDB" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg">
-|--|--|--|
+
+## ⚙️ Tech Stack
+
+### Programming Languages
+Python
+
+### Backend Frameworks
+Django • Django REST Framework • FastAPI • Flask
+
+### Databases
+PostgreSQL • MongoDB • Redis • SQL
+
+### Cloud & DevOps
+Docker • Docker Compose • AWS • GCP • GitHub Actions • CI/CD
+
+### Messaging & Async
+Celery • RabbitMQ • Google Pub/Sub • Kafka exposure
+
+### Development Tools
+Git • Linux • Postman • DBeaver • VS Code • Cursor
+
+### Observability
+Sentry • CloudWatch • Datadog
+
 ---
-
-### ☁️ Dev OPS
-<img title="Docker" alt="Docker" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"/>|<img title="AWS" alt="AWS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">|<img title="Google Cloud" alt="Google Cloud" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg">
-|--|--|--|
----
-
-### 🛠️ Development
-<img title="Postman" alt="Postman" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain-wordmark.svg"/>|<img title="Linux" alt="Linux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">|<img title="Dbeaver" width="50px" src="https://github.com/user-attachments/assets/f069c7b1-e5eb-4b8d-b8f7-2a79c1da7750" /> |<img title="Git" alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg">
-|--|--|--|--|
----
-
-### IDE
-<img title="VS Code" alt="Vs Code" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg">|<img title="Cursor IDE" width="50px" src="https://github.com/user-attachments/assets/d613b07c-5d8c-461d-b020-3231e9e73d6b" />|<img title="Jupyter Notebook" alt="Jupyter Notebook" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg">|
-|--|--|--|
----
-
-### Data Analysis
-<img title="Pandas" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg">|<img width="50px" title="Numpy" src="https://github.com/user-attachments/assets/6e66ed0d-c7c4-403e-9e17-b0e017ed1255" />
-|--|--|
----
-
-### Infra & Workflow
-<img title="Celery" alt="Celery" width="70px" src="https://miro.medium.com/v2/resize:fit:600/format:webp/1*KGc-JPw3KVwqQ77fCMCT6Q.png">|<img title="Poetry" width="70px" src="https://github.com/user-attachments/assets/d5e0c84f-577a-420d-972d-1fdcb9470833" />      
-|--|--|
----
-
-### Data Obserbability
-|<img width="50px" title="sentry" src="https://github.com/user-attachments/assets/d67eae5c-77b1-43fc-9b0a-be0934dbb7b2" />|<img width="50px" title="datadog" src="https://github.com/user-attachments/assets/3ec8a15b-0842-49b3-acf7-82909c05e13a" />|
-|--|--|
----
-
-
-
